@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /admin
+
+# Host
+Host: https://shoe-shop-next-js.vercel.app/
+
+# Sitemaps
+Sitemap: https://shoe-shop-next-js.vercel.app/sitemap.xml
